@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/gray_theme"
+    tools:context=".ui.fragments.app.SettingsFragment">
+
+    <include
+        android:id="@+id/incTitleBar"
+        layout="@layout/layout_titlebar_three_itens"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_gravity="center_horizontal"/>
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

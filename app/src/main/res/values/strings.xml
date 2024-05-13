@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HelpCity</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text_body_dialog">
+        Por nos ajudar a tornar nossa cidade um lugar ainda melhor! Sua denúncia é super importante e vai nos ajudar a resolver problemas e fazer mudanças positivas na comunidade.
+        Continue sendo um herói(a) da vizinhança! Juntos, podemos fazer uma grande diferença!
+    </string>
+</resources>
